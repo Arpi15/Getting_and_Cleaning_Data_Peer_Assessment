@@ -1,8 +1,3 @@
----
-title: "Coursera Getting and Cleaning Data Peer Assessment"
-author: "Arpita Mukherjee"
-output: html_document
----
 
 ## Project Information
 
